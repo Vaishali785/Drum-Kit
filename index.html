@@ -71,7 +71,6 @@
     function removeTransition(e){
         if(e.propertyName !== "transform") return; //if it's not a transform, do nothing
         this.classList.remove("playing");
-        console.log(e);
     }
     
     const keys=document.querySelectorAll('div');
