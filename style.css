@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: url("../Images/music.webp") no-repeat 10% 50%;
+  background: url("./Sounds/music.webp") no-repeat 10% 50%;
   background-size: cover;
   backdrop-filter: blur(3px);
 }
